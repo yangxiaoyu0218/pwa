@@ -27,6 +27,7 @@ This will scaffold the project using the `master` branch. If you wish to use the
 
 ``` bash
 $ vue init pwa#development my-project
+$ vue init pwa-development my-project --offline
 ```
 
 :warning: **The `development` branch is not considered stable and can contain bugs or not build at all, so use at your own risk.**
